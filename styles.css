@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, #6a3093, #be74f4, #b186d0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+}
